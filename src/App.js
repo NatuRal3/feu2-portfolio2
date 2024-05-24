@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Onepager from "./pages/Onepager";
+import "./sass/style.scss";
 
 function App() {
   return (
