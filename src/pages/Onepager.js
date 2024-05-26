@@ -11,6 +11,7 @@ function Onepager() {
 
       <div id="cont intro">
         <p>Welcome to my simple portfolio page</p>
+        <p>Currently working as a business application consultant and developer</p>
       </div>
 
       <div id="cont Skills">
