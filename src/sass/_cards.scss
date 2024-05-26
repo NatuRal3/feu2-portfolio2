@@ -5,8 +5,12 @@
 }
 
 .cardlink {
-  color: pink;
+  color: rgb(0, 0, 0);
   &:hover {
-    color: black;
+    color: rgb(126, 126, 126);
   }
+}
+
+.card {
+  margin: 1rem;
 }
