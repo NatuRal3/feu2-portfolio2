@@ -8,10 +8,10 @@ function Card_(props) {
         <Card.Img src={props.image} />
         <Card.Text>{props.text}</Card.Text>
         <Card.Link href={props.github} target="_blank">
-          <i class="bi bi-github"></i>
+          <i class="bi bi-github cardlink"></i>
         </Card.Link>
         <Card.Link href={props.visit} target="_blank">
-          <i class="bi bi-box-arrow-up-right"></i>
+          <i class="bi bi-box-arrow-up-right cardlink"></i>
         </Card.Link>
       </Card.Body>
     </Card>
